@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec5e3ea3-7730-47ac-a7fc-dc19fa5625e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZrTw5e97VMLfGkfK8OtwzzQJxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Nueva carpeta/jgoodies-forms-1.8.0/jgoodies-forms-1.8.0.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Conexion_bbdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conexion_bbdd" />
+      <module name="Conexion_base_de_datos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Conexion_bbdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585598692407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585598692407" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585599875447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585599875447" />
+    <state x="777" y="130" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585601268454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="130" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585601268454" />
+    <state x="687" y="329" key="FileChooserDialogImpl" timestamp="1585601993472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="329" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585601993472" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1585600968991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585600968991" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1585600968991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585600968991" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1585600968991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585600968991" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1585600968991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585600968991" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585602042397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585602042397" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585600988237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585600988237" />
+    <state x="627" y="140" key="new project wizard" timestamp="1585598217421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585598217421" />
+  </component>
+</project>
